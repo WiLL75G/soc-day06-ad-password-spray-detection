@@ -268,14 +268,12 @@ This investigation demonstrates the ability to:
 .
 ├── README.md
 ├── screenshots/
-│   ├── attack_pattern.png
 │   ├── user_creation.png
 │   ├── spray_attempt.png
 │   ├── event_viewer.png
 │   ├── event_4625_filter.png
 │   ├── failed_logon_events.png
 │   ├── event_details.png
-│   ├── pattern_comparison.png
 │   └── analyst_verdict.png
 ```
 
