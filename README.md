@@ -243,7 +243,7 @@
 
 ## Analyst Insight
 
-Password spray attacks succeed by exploiting weak detection logic that focuses on per-account thresholds rather than cross-account patterns. SOC analysts must build detection around behavioral correlation — recognizing that a single failed logon across many accounts is a stronger indicator of compromise than repeated failures against one.
+Password spray attacks succeed by exploiting weak detection logic that focuses on per-account thresholds rather than cross-account patterns. SOC analysts must build detection around behavioral correlation recognizing that a single failed logon across many accounts is a stronger indicator of compromise than repeated failures against one.
 
 ---
 
