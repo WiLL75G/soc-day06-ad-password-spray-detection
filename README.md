@@ -14,9 +14,9 @@
 
 ## Executive Summary
 
-This investigation focuses on the simulation and detection of a password spray attack targeting multiple user accounts on a Windows host. Unlike traditional brute-force attempts, password spraying uses a single common password against many accounts to evade account lockout policies.
+> This investigation focuses on the simulation and detection of a password spray attack targeting multiple user accounts on a Windows host. Unlike traditional brute-force attempts, password spraying uses a single common password against many accounts to evade account lockout policies.
 
-The analysis correlates failed authentication events across multiple accounts within a short timeframe to identify the spray signature, distinguish it from brute-force activity, and document SOC-level detection methodology.
+> The analysis correlates failed authentication events across multiple accounts within a short timeframe to identify the spray signature, distinguish it from brute-force activity, and document SOC-level detection methodology.
 
 ---
 
