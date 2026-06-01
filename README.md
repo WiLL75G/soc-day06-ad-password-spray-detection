@@ -1,5 +1,4 @@
-# Day 06 – SOC Tier 1 Incident Report: Password Spray Attack Detection on Active Directory
-
+# Active Directory Attack Detection: Emulating and Detecting Identity Attacks
 ---
 
 ## Incident Summary
